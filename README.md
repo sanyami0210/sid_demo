@@ -1,3 +1,3 @@
 # sid_demo
-sid demo repo for github understanding
-updating git
+sid demo repo for github understanding<br>
+updating git<br>
